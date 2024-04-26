@@ -1,1 +1,8 @@
-# Eduardo_Ulloa_Unidad_1
+### Eduardo Ulloa Herrera
+# ed.ulloah@duocuc.cl
+# conflicto resuelto 
+# navegacion lista 
+# estilo eliminado
+# repositorio regenerado 
+
+#
